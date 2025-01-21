@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **React.js,Node.js, Express.js, MongoDB, Python programming, Bootstrap, JavaScript, HTML, CSS**
 
-- 📄 My Resume [https://drive.google.com/file/d/1uWhTmSXKf-6Y3KpHbrmEdQfTnqid007r/view?usp=sharing](https://drive.google.com/file/d/1uWhTmSXKf-6Y3KpHbrmEdQfTnqid007r/view?usp=sharing)
+- 📄 My Resume [https://drive.google.com/file/d/1HgMasSJz2tAgb22Am-LIVODIOM4MwR4f/view?usp=sharing](https://drive.google.com/file/d/1HgMasSJz2tAgb22Am-LIVODIOM4MwR4f/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
