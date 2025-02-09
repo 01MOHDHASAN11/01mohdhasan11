@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Typescript](https://github.com/01MOHDHASAN11/TypeScript)
 
-- 💬 Ask me about **React.js,Node.js, Express.js, MongoDB, Python programming, Bootstrap, JavaScript, HTML, CSS**
+- 💬 Ask me about **React.js,Node.js, Express.js, MongoDB, Python programming, Bootstrap, Typescript, Tailwind CSS, JavaScript, HTML, CSS**
 
 - 📄 My Resume [https://drive.google.com/file/d/1HgMasSJz2tAgb22Am-LIVODIOM4MwR4f/view?usp=sharing](https://drive.google.com/file/d/1HgMasSJz2tAgb22Am-LIVODIOM4MwR4f/view?usp=sharing)
 
