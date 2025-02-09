@@ -4,7 +4,7 @@
 <img align="right" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwWg4Ex7_XL5qwuUr8FF7t20q6-XP_vRyYMQ&s">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=01mohdhasan11&label=Profile%20views&color=0e75b6&style=flat" alt="01mohdhasan11" /> </p>
 
-- 🔭 I’m currently working on [UI-Full-Stack-Development](https://github.com/01MOHDHASAN11/UI-Full-Stack-Development)
+- 🔭 I’m currently working on [Typescript](https://github.com/01MOHDHASAN11/TypeScript)
 
 - 💬 Ask me about **React.js,Node.js, Express.js, MongoDB, Python programming, Bootstrap, JavaScript, HTML, CSS**
 
